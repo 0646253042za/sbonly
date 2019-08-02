@@ -2452,7 +2452,7 @@ async def achinkBot(op):
                                         "backgroundColor": "#191970"
                                         },
                                         "footer": {
-                                          "backgroundColor": "#FFD700"
+                                          "backgroundColor": "#000000"
                                         }
                                         },
   "type": "bubble",
@@ -2514,7 +2514,7 @@ async def achinkBot(op):
                                                 }]
                                             }, {
                                                 "type": "separator",
-                                                "color": "#0000CD"
+                                                "color": "#000000"
                                             }, {
        #   }
     #    ]
@@ -2527,7 +2527,7 @@ async def achinkBot(op):
           {
             "type": "text",
                                                     "text":"{}".format(str(ret)),
-                                                    "color": "#000000",
+                                                    "color": "#FFD700",
                                                     "size": "sm",
                                                     "weight": "bold",
                                                     "flex": 3,
@@ -2545,13 +2545,13 @@ async def achinkBot(op):
       {
       "type": "button",
                                 "style": "secondary",
-                                "color": "#FFFFFF",
+                                "color": "#191970",
                                 "height": "sm",
                                 "gravity": "center",
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "MODE DESTOP",
+                                    "label": "𝐃𝐄𝐒𝐓𝐎𝐏 𝐌𝐎𝐃𝐄",
                                     "uri": "https://line.me/ti/p/~adreamer_",
        # "type": "button",
         #"action": {
