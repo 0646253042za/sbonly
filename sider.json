@@ -1,0 +1,52 @@
+{
+    "Admin": {
+        "ua262a4169e39059fb69ad6900c9937fe": true,
+        "u1d1a1c89256f76d396bad6c8e7c820ce": true
+    },
+    "AdminDel": true,
+    "Adminadd": false,
+    "AutoReject": false,
+    "AutojoinTicket": false,
+    "BackupBot": true,
+    "Ban": false,
+    "Blacklist": {},
+    "Contact": false,
+    "ContactAdd": {},
+    "Copy": false,
+    "GName": "CYBERZIC",
+    "Gift": false,
+    "IDSticker": false,
+    "Invite": false,
+    "KillOn": false,
+    "Leave": false,
+    "Mic": false,
+    "MicDel": false,
+    "PesanAdd": "Thx mamen sudah add",
+    "ROM": {
+        "ua262a4169e39059fb69ad6900c9937fe": {}
+    },
+    "Steal": false,
+    "Timeline": false,
+    "Unban": false,
+    "UnsendPesan": false,
+    "Upfoto": false,
+    "UpfotoGroup": false,
+    "WcText": "Welcome My Friend",
+    "Welcome": false,
+    "WvText": "See You My Friend",
+    "autoAdd": true,
+    "autoBlock": false,
+    "autoJoin": false,
+    "autoRead": false,
+    "detectMention": false,
+    "kickMention": false,
+    "readMember": {
+        "ua262a4169e39059fb69ad6900c9937fe": ""
+    },
+    "readPoint": {
+        "ua262a4169e39059fb69ad6900c9937fe": "8178036848553"
+    },
+    "readTime": {
+        "ua262a4169e39059fb69ad6900c9937fe": "19:02:54"
+    }
+}
