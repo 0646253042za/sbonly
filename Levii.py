@@ -165,7 +165,7 @@ tagadd = {
     "tags": False,
     "tag": "Heleuh tag mulu keplet niCh😜",
     "add": "Halo trimakasih sudah add saya..!\nOiya..mau sekalian order nich,kali kakak/adek/om/tante,mau main bot\Beragam bot kami punya mulai dari.\n✴️ Selfbot\n✴️ Self tamplate kekinian serba gede\n✴️ Self+antiJS\n✴️ Self+Asist+ghost+antiJS\n✴️ Botwar\n✴️ Bot protect\n✴️ Asit bisa riquests sesuai kebutuhan\n akun dari kami berbeda di hitung perakun✔️\n============================\nSEDIA JUGA PROTECT ROM\n==========================\n✴️ Rom smule\n✴️ Rom event\n✴️ Room chat\n✴️ Room shop\n✴️ Dll\nJika berminat silahkan add kontak di bwah ini.!\n📒 line://ti/p/~adreamer_",
-    "wctext": "semoga betah yah",
+    "wctext": "dont mess up just enjoy it :)",
     "lv": "Baper yah",
     "b": "Maap kak,autoblock on jika penting chat kontact di bawah ini\nhttp://line.me/ti/p/%40hie8649a\n\nchat jah di situ pasti di respon kok🤗",
     "m": "😎",
@@ -1070,12 +1070,12 @@ async def achinkBot(op):
             name = contact.displayName
             cover = achink.getProfileCoverURL(op.param2)
             pp = contact.pictureStatus
-            a = "selamat datang di group {}".format(gname)
+            a = "welcome to group {}".format(gname)
             m = "Nama tamu : {}\n\n".format(name)
             s = tagadd["wctext"]
             data = {
                          "type": "flex",
-                                    "altText": "welcome",
+                                    "altText": "Levii's Here",
                                     "contents": {
                                     "styles": {
                                     "header": {
@@ -1102,7 +1102,7 @@ async def achinkBot(op):
                               "flex": 1,
                               "action": {
                               "type": "uri",
-                              "label": "SELAMAT DATANG",
+                              "label": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄",
                               "uri": "https://line.me/ti/p/~adreamer_"
                           }
                      },
@@ -1137,7 +1137,7 @@ async def achinkBot(op):
                          "contents": [
                                             {
                                              "type": "text",
-                                             "text":"Halo kak {}".format(name),
+                                             "text":"Hallo {}".format(name),
                                              "color": "#FFD700",
                                              "size": "sm",
                                              "weight": "bold",
@@ -1209,13 +1209,13 @@ async def achinkBot(op):
                                         "contents": {
                                         "styles": {
                                         "header": {
-                                        "backgroundColor":"#0000CD"
+                                        "backgroundColor":"#000000"
                                         },
                                         "body": {
-                                        "backgroundColor": "#000000"
+                                        "backgroundColor": "#191970"
                                         },
                                         "footer": {
-                                          "backgroundColor": "#0000CD"
+                                          "backgroundColor": "#000000"
                                         }
                                         },
   "type": "bubble",
@@ -1226,13 +1226,13 @@ async def achinkBot(op):
       {
       "type": "button",
                                 "style": "secondary",
-                                "color": "#FFFFFF",
+                                "color": "#191970",
                                 "height": "sm",
                                 "gravity": "center",
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "SELAMAT DATANG",
+                                    "label": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄",
                                     "uri": "https://line.me/ti/p/~adreamer_"
       }
       },
@@ -1275,7 +1275,7 @@ async def achinkBot(op):
                                                 }]
                                             }, {
                                                 "type": "separator",
-                                                "color": "#FFFFFF"
+                                                "color": "#FFD700"
                                             }, {
        #   }
     #    ]
@@ -1288,7 +1288,7 @@ async def achinkBot(op):
           {
             "type": "text",
                                                     "text":"Nama : {}".format(names),
-                                                    "color": "#FFFFFF",
+                                                    "color": "#FFD700",
                                                     "size": "sm",
                                                     "weight": "bold",
                                                     "flex": 3,
@@ -1297,7 +1297,7 @@ async def achinkBot(op):
                                                     },{
                                                     "type": "text",
                                                     "text": status,
-                                                    "color": "#FFFFFF",
+                                                    "color": "#FFD700",
                                                     "size": "sm",
                                                     "weight": "bold",
                                                     "flex": 3,
@@ -1315,7 +1315,7 @@ async def achinkBot(op):
       {
       "type": "button",
                                 "style": "secondary",
-                                "color": "#FFFFFF",
+                                "color": "#FFD700",
                                 "height": "sm",
                                 "gravity": "center",
                                 "flex": 1,
@@ -1437,7 +1437,7 @@ async def achinkBot(op):
                                 LINKVIDEO = "https://os.line.naver.jp/os/p/" + sender + "/vp"
                                 data = {
                          "type": "flex",
-                                    "altText": "respon tag",
+                                    "altText": "Levii's Here",
                                     "contents": {
                                     "styles": {
                                     "header": {
@@ -1490,7 +1490,7 @@ async def achinkBot(op):
                                         }, 
                                   {
                                  "type": "separator",
-                                 "color": "#000000"
+                                 "color": "#FFD700"
                              },
                          {
                          "type": "box",
@@ -1500,7 +1500,7 @@ async def achinkBot(op):
                                             {
                                              "type": "text",
                                              "text": "Apa kak {}".format(contact.displayName),
-                                             "color": "#000000",
+                                             "color": "#FFD700",
                                              "size": "sm",
                                              "weight": "bold",
                                              "flex": 3,
@@ -1509,7 +1509,7 @@ async def achinkBot(op):
                                              },{
                                              "type": "text",
                                              "text": "kangen yah",
-                                             "color": "#000000",
+                                             "color": "#FFD700",
                                              "size": "sm",
                                              "weight": "bold",
                                              "flex": 3,
@@ -1517,7 +1517,7 @@ async def achinkBot(op):
                                              "gravity": "top"},{
                                              "type": "text",
                                              "text": "ngetag ngetag mulu",
-                                             "color": "#000000",
+                                             "color": "#FFD700",
                                              "size": "sm",
                                              "weight": "bold",
                                              "flex": 3,
@@ -1627,7 +1627,7 @@ async def achinkBot(op):
                                 purl = msg.contentMetadata["postEndUrl"].split('userMid=')[1].split('&postId=')
                                 if purl[1] not in wait['postId']:
                                     achink.likePost(purl[0], purl[1], random.choice([1001,1002,1003,1004,1005]))
-                                    am = "『 𝔻𝕆ℕ𝔼 𝕃𝕀𝕂𝔼𝔻 𝔹𝕀𝕋ℂℍ𝔼𝕊! 』"
+                                    am = "『 𝐃𝐎𝐍𝐄 𝐋𝐈𝐊𝐄𝐃 𝐁𝐈𝐓𝐂𝐇𝐄𝐒!! 』"
                                     data = {
                                            "type": "text",
                                            "text": "{}".format(str(am)),
@@ -1650,7 +1650,7 @@ async def achinkBot(op):
                                         achink.likePost(msg._from, purl[1], random.choice([1001,1002,1003,1004,1005]))
                                     if settings["com"] == True:
                                         achink.createComment(msg._from, purl[1], settings["commet"])
-                                        am = "『 𝔻𝕆ℕ𝔼 ℂ𝕆𝕄𝕄𝔼ℕ𝕋 𝔹𝕀𝕋ℂℍ𝔼𝕊! 』"
+                                        am = "『 𝐃𝐎𝐍𝐄 𝐂𝐎𝐌𝐌𝐄𝐍𝐓 𝐁𝐈𝐓𝐂𝐇𝐄𝐒!! 』"
                                         data = {
                                            "type": "text",
                                            "text": "{}".format(str(am)),
